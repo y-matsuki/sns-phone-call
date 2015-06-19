@@ -1,0 +1,7 @@
+twilio:
+  accountSid: 'ACxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+  authToken: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+  language: 'ja-jp'
+  voice: 'woman'
+  toNumber: '+81xxxxxxxxxx'
+  fromNumber: '+81xxxxxxxxx'
